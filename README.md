@@ -21,6 +21,5 @@ cd publication-plot-style
 ### Usage
 
 ```python
-from plot_style import set_publication_style
-# Apply publication style
-set_publication_style()
+from plots_styl import set_pub_style #import the package
+set_pub_style() # Apply publication style
