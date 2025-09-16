@@ -14,7 +14,7 @@ This Python package provides a simple function to set up publication-quality plo
 
 Here is a comparison between a standard Matplotlib plot vs. a publication-quality styled plot:
 
-![Comparison GIF](compare_plot.gif)
+![Comparison GIF|300](compare_plot.gif)
 
 ## 🚀 Installation
 
