@@ -10,6 +10,12 @@ This Python package provides a simple function to set up publication-quality plo
 - Clean appearance: inward ticks, minor ticks, customised grid and legend
 - Saves figures as high-quality PDF files
 
+## 🎞️ Example Comparison
+
+Here is a comparison between a standard Matplotlib plot vs. a publication-quality styled plot:
+
+![Comparison GIF](compare_plot.gif)
+
 ## 🚀 Installation
 
 Simply clone the repository:
